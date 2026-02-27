@@ -1,0 +1,20 @@
+[
+  {
+    "platform": "twitter",
+    "name": "Twitter / X",
+    "handle": "@kettamini_",
+    "url": "https://twitter.com/твой_ник"
+  },
+  {
+    "platform": "telegram",
+    "name": "Telegram",
+    "handle": "@Kettamini_art",
+    "url": "https://t.me/твой_канал"
+  },
+  {
+    "platform": "discord",
+    "name": "Discord Server",
+    "handle": "discord.gg/header",
+    "url": "https://discord.gg/header"
+  }
+]
