@@ -3,18 +3,18 @@
     "platform": "twitter",
     "name": "Twitter / X",
     "handle": "@kettamini_",
-    "url": "https://twitter.com/твой_ник"
+    "url": "https://twitter.com/kettamini_"
   },
   {
     "platform": "telegram",
     "name": "Telegram",
     "handle": "@Kettamini_art",
-    "url": "https://t.me/твой_канал"
+    "url": "https://t.me/Kettamini_art"
   },
   {
     "platform": "discord",
-    "name": "Discord Server",
-    "handle": "discord.gg/header",
-    "url": "https://discord.gg/header"
+    "name": "SOON",
+    "handle": "discord.gg/soon",
+    "url": "https://discord.gg/soon"
   }
 ]
