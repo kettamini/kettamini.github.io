@@ -684,7 +684,7 @@
 
 <!-- HEADER -->
 <header>
-  <a class="logo" href="#">✦ <span>booru</span></a>
+  <a class="logo" href="#">^ <span>Ketta_lib</span></a>
   <nav class="nav-tabs">
     <button class="nav-tab active" onclick="switchTab('gallery',this)">gallery</button>
     <button class="nav-tab" onclick="switchTab('links',this)">links</button>
@@ -707,7 +707,7 @@
 <div class="layout">
   <!-- SIDEBAR -->
   <aside>
-    <div class="sidebar-title">все теги</div>
+    <div class="sidebar-title">All tags</div>
     <div class="tag-cloud" id="tag-cloud"></div>
   </aside>
 
@@ -716,13 +716,13 @@
     <div class="sort-bar">
       <span class="sort-label">сортировка</span>
       <button class="sort-btn active" id="sort-date-desc" onclick="setSort('date','desc',this)">
-        дата <span class="sort-arrow">↓</span>
+        Date <span class="sort-arrow">↓</span>
       </button>
       <button class="sort-btn" id="sort-date-asc" onclick="setSort('date','asc',this)">
-        дата <span class="sort-arrow">↑</span>
+        Date <span class="sort-arrow">↑</span>
       </button>
       <button class="sort-btn" id="sort-name-asc" onclick="setSort('name','asc',this)">
-        имя <span class="sort-arrow">↑</span>
+        By name <span class="sort-arrow">↑</span>
       </button>
     </div>
     <div id="active-filters"></div>
@@ -739,8 +739,8 @@
 <div id="page-links">
   <div class="links-container">
     <div class="links-header">
-      <h2>✦ links</h2>
-      <p>Все мои медиа и соцсети в одном месте</p>
+      <h2>! links !</h2>
+      <p>All my links here. For now</p>
     </div>
     <div id="links-content">
       <div class="links-empty">
@@ -917,7 +917,7 @@ function renderGrid() {
     card.className = 'card';
     card.style.animationDelay = `${i * 0.025}s`;
     card.innerHTML = `
-      <img class="card-thumb" src="${img.thumb || img.file}" alt="${img.tags.join(', ')}" loading="lazy">
+      <img class="card-thumb" src="${img.file}" alt="${img.tags.join(', ')}" loading="lazy">
       <div class="card-info">
         <div class="card-tags">${img.tags.map(t=>`<span class="card-tag">${t}</span>`).join('')}</div>
       </div>`;
@@ -968,7 +968,7 @@ function getPageRange(cur, total) {
 function updateStats() {
   const el = document.getElementById('stats-text');
   const total = Math.ceil(filtered.length / PER_PAGE);
-  el.textContent = `${filtered.length} изобр. · стр. ${currentPage}/${total||1}`;
+  el.textContent = `${filtered.length} img. · pg. ${currentPage}/${total||1}`;
 }
 
 // ── LIGHTBOX ───────────────────────────────────────────────────────
@@ -991,7 +991,7 @@ function lbNavigate(dir) {
 
 function renderLightbox() {
   const img = filtered[lbIndex];
-  document.getElementById('lb-img').src = img.file;  // оригинал
+  document.getElementById('lb-img').src = img.file;
   document.getElementById('lb-filename').textContent = img.file.split('/').pop();
   const tagsEl = document.getElementById('lb-tags');
   tagsEl.innerHTML = img.tags.map(t =>

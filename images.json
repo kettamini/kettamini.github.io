@@ -1,6 +1,7 @@
 [
   {
     "file": "images/Delta_V_OC_01.png",
+    "thumb": "thumbs/Delta_V_OC_01.jpg",
     "date": "2026-02-20T02:50:23Z",
     "tags": [
       "delta",
@@ -9,6 +10,7 @@
   },
   {
     "file": "images/Sketch_01_01.png",
+    "thumb": "thumbs/Sketch_01_01.jpg",
     "date": "2026-02-11T19:29:54Z",
     "tags": [
       "sketch"
@@ -16,6 +18,7 @@
   },
   {
     "file": "images/a4yba4.png",
+    "thumb": "thumbs/a4yba4.jpg",
     "date": "2026-01-27T07:24:55Z",
     "tags": [
       "a4yba4"
@@ -23,6 +26,7 @@
   },
   {
     "file": "images/aggetsuko_tsunade01.png",
+    "thumb": "thumbs/aggetsuko_tsunade01.jpg",
     "date": "2025-11-23T12:11:37Z",
     "tags": [
       "aggetsuko",
@@ -31,6 +35,7 @@
   },
   {
     "file": "images/amber_abtp_old_01.png",
+    "thumb": "thumbs/amber_abtp_old_01.jpg",
     "date": "2025-10-27T18:02:14Z",
     "tags": [
       "amber",
@@ -39,6 +44,7 @@
   },
   {
     "file": "images/apple_01.jpg",
+    "thumb": "thumbs/apple_01.jpg",
     "date": "2025-11-04T22:23:20Z",
     "tags": [
       "apple"
@@ -46,6 +52,7 @@
   },
   {
     "file": "images/beyond_citadel_01.jpg",
+    "thumb": "thumbs/beyond_citadel_01.jpg",
     "date": "2025-11-16T10:20:31Z",
     "tags": [
       "beyond",
@@ -54,6 +61,7 @@
   },
   {
     "file": "images/black_cat_01.png",
+    "thumb": "thumbs/black_cat_01.jpg",
     "date": "2025-11-20T17:03:07Z",
     "tags": [
       "black",
@@ -62,6 +70,7 @@
   },
   {
     "file": "images/bw_01.png",
+    "thumb": "thumbs/bw_01.jpg",
     "date": "2025-12-04T13:03:01Z",
     "tags": [
       "bw"
@@ -69,6 +78,7 @@
   },
   {
     "file": "images/citadel_02.png",
+    "thumb": "thumbs/citadel_02.jpg",
     "date": "2025-11-18T11:21:57Z",
     "tags": [
       "citadel"
@@ -76,6 +86,7 @@
   },
   {
     "file": "images/crysalis_03.png",
+    "thumb": "thumbs/crysalis_03.jpg",
     "date": "2025-11-16T09:25:16Z",
     "tags": [
       "crysalis"
@@ -83,6 +94,7 @@
   },
   {
     "file": "images/crysalis_03_1.png",
+    "thumb": "thumbs/crysalis_03_1.jpg",
     "date": "2025-11-16T09:27:57Z",
     "tags": [
       "crysalis"
@@ -90,6 +102,7 @@
   },
   {
     "file": "images/crysalis_03_2.jpg",
+    "thumb": "thumbs/crysalis_03_2.jpg",
     "date": "2025-11-16T09:33:57Z",
     "tags": [
       "crysalis"
@@ -97,6 +110,7 @@
   },
   {
     "file": "images/crysalis_03_3.png",
+    "thumb": "thumbs/crysalis_03_3.jpg",
     "date": "2025-11-16T09:42:45Z",
     "tags": [
       "crysalis"
@@ -104,6 +118,7 @@
   },
   {
     "file": "images/dumakur_oc_01.jpg",
+    "thumb": "thumbs/dumakur_oc_01.jpg",
     "date": "2025-11-16T17:39:24Z",
     "tags": [
       "dumakur",
@@ -112,6 +127,7 @@
   },
   {
     "file": "images/fang_09.png",
+    "thumb": "thumbs/fang_09.jpg",
     "date": "2025-10-23T05:26:10Z",
     "tags": [
       "fang"
@@ -119,6 +135,7 @@
   },
   {
     "file": "images/fang_10.png",
+    "thumb": "thumbs/fang_10.jpg",
     "date": "2025-10-25T05:32:52Z",
     "tags": [
       "fang"
@@ -126,6 +143,7 @@
   },
   {
     "file": "images/fang_11.png",
+    "thumb": "thumbs/fang_11.jpg",
     "date": "2025-11-16T09:49:51Z",
     "tags": [
       "fang"
@@ -133,6 +151,7 @@
   },
   {
     "file": "images/fang_12.png",
+    "thumb": "thumbs/fang_12.jpg",
     "date": "2025-11-26T16:43:26Z",
     "tags": [
       "fang"
@@ -140,6 +159,7 @@
   },
   {
     "file": "images/fang_13.png",
+    "thumb": "thumbs/fang_13.jpg",
     "date": "2025-12-06T02:09:44Z",
     "tags": [
       "fang"
@@ -147,6 +167,7 @@
   },
   {
     "file": "images/fang_14.png",
+    "thumb": "thumbs/fang_14.jpg",
     "date": "2025-12-30T08:48:13Z",
     "tags": [
       "fang"
@@ -154,6 +175,7 @@
   },
   {
     "file": "images/fang_15.png",
+    "thumb": "thumbs/fang_15.jpg",
     "date": "2026-01-25T14:47:11Z",
     "tags": [
       "fang"
@@ -161,6 +183,7 @@
   },
   {
     "file": "images/fang_16.png",
+    "thumb": "thumbs/fang_16.jpg",
     "date": "2026-02-23T09:19:30Z",
     "tags": [
       "fang"
@@ -168,6 +191,7 @@
   },
   {
     "file": "images/fang_fag_01.png",
+    "thumb": "thumbs/fang_fag_01.jpg",
     "date": "2025-10-28T07:10:38Z",
     "tags": [
       "fang",
@@ -176,6 +200,7 @@
   },
   {
     "file": "images/fang_strips_03.png",
+    "thumb": "thumbs/fang_strips_03.jpg",
     "date": "2026-02-18T01:13:10Z",
     "tags": [
       "fang",
@@ -184,6 +209,7 @@
   },
   {
     "file": "images/gigachad_randy_01.jpg",
+    "thumb": "thumbs/gigachad_randy_01.jpg",
     "date": "2025-11-15T01:11:47Z",
     "tags": [
       "gigachad",
@@ -192,6 +218,7 @@
   },
   {
     "file": "images/hat_in_the_time_cinema_01.png",
+    "thumb": "thumbs/hat_in_the_time_cinema_01.jpg",
     "date": "2025-11-12T11:07:05Z",
     "tags": [
       "hat",
@@ -203,6 +230,7 @@
   },
   {
     "file": "images/ivy_deadlock_01.png",
+    "thumb": "thumbs/ivy_deadlock_01.jpg",
     "date": "2026-01-28T06:06:45Z",
     "tags": [
       "ivy",
@@ -211,6 +239,7 @@
   },
   {
     "file": "images/jabka_01.png",
+    "thumb": "thumbs/jabka_01.jpg",
     "date": "2026-02-16T21:04:08Z",
     "tags": [
       "jabka"
@@ -218,6 +247,7 @@
   },
   {
     "file": "images/jax_tadc_03.jpg",
+    "thumb": "thumbs/jax_tadc_03.jpg",
     "date": "2025-11-13T07:21:01Z",
     "tags": [
       "jax",
@@ -226,6 +256,7 @@
   },
   {
     "file": "images/jester_01.png",
+    "thumb": "thumbs/jester_01.jpg",
     "date": "2025-11-18T20:20:32Z",
     "tags": [
       "jester"
@@ -233,6 +264,7 @@
   },
   {
     "file": "images/kanaya_01.png",
+    "thumb": "thumbs/kanaya_01.jpg",
     "date": "2025-10-28T18:00:28Z",
     "tags": [
       "kanaya"
@@ -240,6 +272,7 @@
   },
   {
     "file": "images/kanaya_02.png",
+    "thumb": "thumbs/kanaya_02.jpg",
     "date": "2026-01-25T14:53:35Z",
     "tags": [
       "kanaya"
@@ -247,6 +280,7 @@
   },
   {
     "file": "images/lunara_cancer_02.png",
+    "thumb": "thumbs/lunara_cancer_02.jpg",
     "date": "2025-11-01T22:40:42Z",
     "tags": [
       "lunara",
@@ -255,6 +289,7 @@
   },
   {
     "file": "images/missy_01.png",
+    "thumb": "thumbs/missy_01.jpg",
     "date": "2025-11-22T19:16:14Z",
     "tags": [
       "missy"
@@ -262,6 +297,7 @@
   },
   {
     "file": "images/missy_02.png",
+    "thumb": "thumbs/missy_02.jpg",
     "date": "2026-01-19T16:01:29Z",
     "tags": [
       "missy"
@@ -269,6 +305,7 @@
   },
   {
     "file": "images/missy_03.png",
+    "thumb": "thumbs/missy_03.jpg",
     "date": "2026-01-19T16:05:09Z",
     "tags": [
       "missy"
@@ -276,6 +313,7 @@
   },
   {
     "file": "images/missy_fox_01.png",
+    "thumb": "thumbs/missy_fox_01.jpg",
     "date": "2025-10-27T15:14:54Z",
     "tags": [
       "missy",
@@ -284,6 +322,7 @@
   },
   {
     "file": "images/missy_lost_01.png",
+    "thumb": "thumbs/missy_lost_01.jpg",
     "date": "2025-11-18T07:23:50Z",
     "tags": [
       "missy",
@@ -292,6 +331,7 @@
   },
   {
     "file": "images/naser_ssetzenttach_02.png",
+    "thumb": "thumbs/naser_ssetzenttach_02.jpg",
     "date": "2025-10-28T06:38:51Z",
     "tags": [
       "naser",
@@ -300,6 +340,7 @@
   },
   {
     "file": "images/never_give_up_01.png",
+    "thumb": "thumbs/never_give_up_01.jpg",
     "date": "2026-02-21T06:38:17Z",
     "tags": [
       "never",
@@ -309,6 +350,7 @@
   },
   {
     "file": "images/oc_03.jpg",
+    "thumb": "thumbs/oc_03.jpg",
     "date": "2025-12-09T07:40:05Z",
     "tags": [
       "oc"
@@ -316,6 +358,7 @@
   },
   {
     "file": "images/oc_03_01.jpg",
+    "thumb": "thumbs/oc_03_01.jpg",
     "date": "2025-12-09T07:46:11Z",
     "tags": [
       "oc"
@@ -323,6 +366,7 @@
   },
   {
     "file": "images/oc_03_sketch.png",
+    "thumb": "thumbs/oc_03_sketch.jpg",
     "date": "2025-12-09T07:41:49Z",
     "tags": [
       "oc",
@@ -331,6 +375,7 @@
   },
   {
     "file": "images/proart.png",
+    "thumb": "thumbs/proart.jpg",
     "date": "2025-11-16T19:33:51Z",
     "tags": [
       "proart"
@@ -338,6 +383,7 @@
   },
   {
     "file": "images/robo_01.png",
+    "thumb": "thumbs/robo_01.jpg",
     "date": "2025-12-02T06:29:36Z",
     "tags": [
       "robo"
@@ -345,6 +391,7 @@
   },
   {
     "file": "images/sewerslwt_01.jpg",
+    "thumb": "thumbs/sewerslwt_01.jpg",
     "date": "2025-11-30T03:43:09Z",
     "tags": [
       "sewerslwt"
@@ -352,6 +399,7 @@
   },
   {
     "file": "images/sketch_02.png",
+    "thumb": "thumbs/sketch_02.jpg",
     "date": "2026-02-09T19:46:15Z",
     "tags": [
       "sketch"
@@ -359,6 +407,7 @@
   },
   {
     "file": "images/sketch_03.png",
+    "thumb": "thumbs/sketch_03.jpg",
     "date": "2026-02-12T15:03:24Z",
     "tags": [
       "sketch"
@@ -366,6 +415,7 @@
   },
   {
     "file": "images/smoke_kills_01.png",
+    "thumb": "thumbs/smoke_kills_01.jpg",
     "date": "2026-02-26T11:56:10Z",
     "tags": [
       "smoke",
@@ -374,6 +424,7 @@
   },
   {
     "file": "images/study_face_01.png",
+    "thumb": "thumbs/study_face_01.jpg",
     "date": "2025-10-19T05:09:37Z",
     "tags": [
       "study",
@@ -382,6 +433,7 @@
   },
   {
     "file": "images/study_napalm_07.png",
+    "thumb": "thumbs/study_napalm_07.jpg",
     "date": "2026-02-02T15:32:21Z",
     "tags": [
       "study",
@@ -390,6 +442,7 @@
   },
   {
     "file": "images/study_napalm_17.png",
+    "thumb": "thumbs/study_napalm_17.jpg",
     "date": "2025-12-04T06:12:10Z",
     "tags": [
       "study",
@@ -398,6 +451,7 @@
   },
   {
     "file": "images/study_napalm_19.png",
+    "thumb": "thumbs/study_napalm_19.jpg",
     "date": "2025-12-04T08:12:58Z",
     "tags": [
       "study",
@@ -406,6 +460,7 @@
   },
   {
     "file": "images/study_napalm_21.png",
+    "thumb": "thumbs/study_napalm_21.jpg",
     "date": "2026-02-03T17:31:19Z",
     "tags": [
       "study",
@@ -414,6 +469,7 @@
   },
   {
     "file": "images/study_napalm_color_17.jpg",
+    "thumb": "thumbs/study_napalm_color_17.jpg",
     "date": "2025-12-14T09:10:46Z",
     "tags": [
       "study",
@@ -423,6 +479,7 @@
   },
   {
     "file": "images/study_napalm_color_17_xmas.jpg",
+    "thumb": "thumbs/study_napalm_color_17_xmas.jpg",
     "date": "2025-12-14T09:22:13Z",
     "tags": [
       "study",
@@ -433,6 +490,7 @@
   },
   {
     "file": "images/study_nia_04.png",
+    "thumb": "thumbs/study_nia_04.jpg",
     "date": "2025-10-20T05:47:05Z",
     "tags": [
       "study",
@@ -441,6 +499,7 @@
   },
   {
     "file": "images/the_kat_01.png",
+    "thumb": "thumbs/the_kat_01.jpg",
     "date": "2026-02-17T12:48:03Z",
     "tags": [
       "the",
@@ -449,6 +508,7 @@
   },
   {
     "file": "images/warhammer_rat_01.png",
+    "thumb": "thumbs/warhammer_rat_01.jpg",
     "date": "2026-02-25T12:29:57Z",
     "tags": [
       "warhammer",
@@ -457,6 +517,7 @@
   },
   {
     "file": "images/your_waifu_are_shit_01.png",
+    "thumb": "thumbs/your_waifu_are_shit_01.jpg",
     "date": "2025-11-14T05:52:54Z",
     "tags": [
       "your",
