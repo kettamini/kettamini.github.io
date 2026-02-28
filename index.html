@@ -707,7 +707,7 @@
 <div class="layout">
   <!-- SIDEBAR -->
   <aside>
-    <div class="sidebar-title">все теги</div>
+    <div class="sidebar-title">All tags</div>
     <div class="tag-cloud" id="tag-cloud"></div>
   </aside>
 
@@ -739,8 +739,8 @@
 <div id="page-links">
   <div class="links-container">
     <div class="links-header">
-      <h2>✦ links</h2>
-      <p>Все мои медиа и соцсети в одном месте</p>
+      <h2>! links !</h2>
+      <p>All my links here. For now</p>
     </div>
     <div id="links-content">
       <div class="links-empty">
@@ -968,7 +968,7 @@ function getPageRange(cur, total) {
 function updateStats() {
   const el = document.getElementById('stats-text');
   const total = Math.ceil(filtered.length / PER_PAGE);
-  el.textContent = `${filtered.length} изобр. · стр. ${currentPage}/${total||1}`;
+  el.textContent = `${filtered.length} img. · pg. ${currentPage}/${total||1}`;
 }
 
 // ── LIGHTBOX ───────────────────────────────────────────────────────
