@@ -1,2 +1,2 @@
 # kettabooru
-ai generated booru for posting art 
+ai generated booru for personal use and posting my art 
