@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>✦ booru</title>
+<title>!Kettabooru!</title>
 <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;700;800&display=swap" rel="stylesheet">
 <style>
   :root {
@@ -691,7 +691,7 @@
   </nav>
   <div class="search-wrap" id="search-wrap">
     <span class="search-icon">⌕</span>
-    <input type="text" id="search-input" placeholder="поиск по тегам: cat sky landscape..." oninput="onSearch()">
+    <input type="text" id="search-input" placeholder="Tag search: cat sky landscape..." oninput="onSearch()">
   </div>
   <span class="stats" id="stats-text"></span>
   <div class="theme-switcher" title="Сменить тему">
@@ -707,7 +707,7 @@
 <div class="layout">
   <!-- SIDEBAR -->
   <aside>
-    <div class="sidebar-title">все теги</div>
+    <div class="sidebar-title">All tags</div>
     <div class="tag-cloud" id="tag-cloud"></div>
   </aside>
 
@@ -716,13 +716,13 @@
     <div class="sort-bar">
       <span class="sort-label">сортировка</span>
       <button class="sort-btn active" id="sort-date-desc" onclick="setSort('date','desc',this)">
-        дата <span class="sort-arrow">↓</span>
+        Date <span class="sort-arrow">↓</span>
       </button>
       <button class="sort-btn" id="sort-date-asc" onclick="setSort('date','asc',this)">
-        дата <span class="sort-arrow">↑</span>
+        Date <span class="sort-arrow">↑</span>
       </button>
       <button class="sort-btn" id="sort-name-asc" onclick="setSort('name','asc',this)">
-        имя <span class="sort-arrow">↑</span>
+        By name <span class="sort-arrow">↑</span>
       </button>
     </div>
     <div id="active-filters"></div>
@@ -968,7 +968,7 @@ function getPageRange(cur, total) {
 function updateStats() {
   const el = document.getElementById('stats-text');
   const total = Math.ceil(filtered.length / PER_PAGE);
-  el.textContent = `${filtered.length} изобр. · стр. ${currentPage}/${total||1}`;
+  el.textContent = `${filtered.length} img. · pg. ${currentPage}/${total||1}`;
 }
 
 // ── LIGHTBOX ───────────────────────────────────────────────────────
