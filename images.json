@@ -160,6 +160,15 @@
     ]
   },
   {
+    "file": "images/deadlock_vyper_02.png",
+    "thumb": "thumbs/deadlock_vyper_02.jpg",
+    "date": "2026-03-17T16:19:42Z",
+    "tags": [
+      "deadlock",
+      "vyper"
+    ]
+  },
+  {
     "file": "images/dinos_study_armor_render_01.png",
     "thumb": "thumbs/dinos_study_armor_render_01.jpg",
     "date": "2026-02-28T03:00:13Z",
@@ -258,6 +267,15 @@
     "date": "2026-03-13T04:27:44Z",
     "tags": [
       "fang"
+    ]
+  },
+  {
+    "file": "images/fang_17_color_01.png",
+    "thumb": "thumbs/fang_17_color_01.jpg",
+    "date": "2026-03-17T14:41:18Z",
+    "tags": [
+      "fang",
+      "color"
     ]
   },
   {
