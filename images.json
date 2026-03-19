@@ -279,6 +279,14 @@
     ]
   },
   {
+    "file": "images/fang_18.png",
+    "thumb": "thumbs/fang_18.jpg",
+    "date": "2026-03-19T14:28:42Z",
+    "tags": [
+      "fang"
+    ]
+  },
+  {
     "file": "images/fang_fag_01.png",
     "thumb": "thumbs/fang_fag_01.jpg",
     "date": "2025-10-28T07:10:38Z",
@@ -456,6 +464,22 @@
     ]
   },
   {
+    "file": "images/nia_03.png",
+    "thumb": "thumbs/nia_03.jpg",
+    "date": "2026-03-18T19:43:35Z",
+    "tags": [
+      "nia"
+    ]
+  },
+  {
+    "file": "images/nia_04.png",
+    "thumb": "thumbs/nia_04.jpg",
+    "date": "2026-03-19T17:20:39Z",
+    "tags": [
+      "nia"
+    ]
+  },
+  {
     "file": "images/oc_03.jpg",
     "thumb": "thumbs/oc_03.jpg",
     "date": "2025-12-09T07:40:05Z",
@@ -484,6 +508,14 @@
     "file": "images/oc_04.png",
     "thumb": "thumbs/oc_04.jpg",
     "date": "2026-03-12T06:17:23Z",
+    "tags": [
+      "oc"
+    ]
+  },
+  {
+    "file": "images/oc_06.png",
+    "thumb": "thumbs/oc_06.jpg",
+    "date": "2026-03-19T20:37:48Z",
     "tags": [
       "oc"
     ]
