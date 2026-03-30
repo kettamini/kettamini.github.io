@@ -313,6 +313,15 @@
     ]
   },
   {
+    "file": "images/fortnite_pumpkin_01.png",
+    "thumb": "thumbs/fortnite_pumpkin_01.jpg",
+    "date": "2026-03-30T14:22:16Z",
+    "tags": [
+      "fortnite",
+      "pumpkin"
+    ]
+  },
+  {
     "file": "images/gigachad_randy_01.jpg",
     "thumb": "thumbs/gigachad_randy_01.jpg",
     "date": "2025-11-15T01:11:47Z",
@@ -337,6 +346,15 @@
     "file": "images/ivy_deadlock_01.png",
     "thumb": "thumbs/ivy_deadlock_01.jpg",
     "date": "2026-01-28T06:06:45Z",
+    "tags": [
+      "ivy",
+      "deadlock"
+    ]
+  },
+  {
+    "file": "images/ivy_deadlock_02.png",
+    "thumb": "thumbs/ivy_deadlock_02.jpg",
+    "date": "2026-03-30T14:39:54Z",
     "tags": [
       "ivy",
       "deadlock"
