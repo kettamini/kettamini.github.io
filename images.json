@@ -402,6 +402,14 @@
     ]
   },
   {
+    "file": "images/legoshi_01.png",
+    "thumb": "thumbs/legoshi_01.jpg",
+    "date": "2026-04-14T02:44:26Z",
+    "tags": [
+      "legoshi"
+    ]
+  },
+  {
     "file": "images/lunara_cancer_02.png",
     "thumb": "thumbs/lunara_cancer_02.jpg",
     "date": "2025-11-01T22:40:42Z",
@@ -514,6 +522,14 @@
     ]
   },
   {
+    "file": "images/oc_01.png",
+    "thumb": "thumbs/oc_01.jpg",
+    "date": "2026-04-15T13:05:13Z",
+    "tags": [
+      "oc"
+    ]
+  },
+  {
     "file": "images/oc_03.jpg",
     "thumb": "thumbs/oc_03.jpg",
     "date": "2025-12-09T07:40:05Z",
@@ -550,6 +566,14 @@
     "file": "images/oc_06.png",
     "thumb": "thumbs/oc_06.jpg",
     "date": "2026-03-19T20:37:48Z",
+    "tags": [
+      "oc"
+    ]
+  },
+  {
+    "file": "images/oc_07.png",
+    "thumb": "thumbs/oc_07.jpg",
+    "date": "2026-04-14T03:43:59Z",
     "tags": [
       "oc"
     ]
