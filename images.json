@@ -497,6 +497,15 @@
     ]
   },
   {
+    "file": "images/mittsies_voidreckon_01.png",
+    "thumb": "thumbs/mittsies_voidreckon_01.jpg",
+    "date": "2026-05-01T03:11:44Z",
+    "tags": [
+      "mittsies",
+      "voidreckon"
+    ]
+  },
+  {
     "file": "images/naser_ssetzenttach_02.png",
     "thumb": "thumbs/naser_ssetzenttach_02.jpg",
     "date": "2025-10-28T06:38:51Z",
@@ -751,6 +760,14 @@
     "file": "images/trish_05.png",
     "thumb": "thumbs/trish_05.jpg",
     "date": "2026-04-19T05:31:52Z",
+    "tags": [
+      "trish"
+    ]
+  },
+  {
+    "file": "images/trish_06.png",
+    "thumb": "thumbs/trish_06.jpg",
+    "date": "2026-05-02T09:03:05Z",
     "tags": [
       "trish"
     ]
